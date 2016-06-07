@@ -1,7 +1,18 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+	a space is created where the version history can be stored.
+	Needed to have a well -defined start.
+
+
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+
+	Not every file in the working directory are tracked in version control.
+	Only files in the staging area go into a commit. Makes sense for small commits,
+	selecting the files pertaining to a feature.
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
