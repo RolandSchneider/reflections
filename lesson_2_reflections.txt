@@ -40,3 +40,9 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	
+	automatic merging means you get most of the changes merged together
+	without intervention. Only a few changes need manual interaction.
+
+	on the other hand, some changes might fail with automatic mergesc.
+	therefore test should be run after each merge.
