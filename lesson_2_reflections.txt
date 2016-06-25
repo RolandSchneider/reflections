@@ -29,8 +29,14 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	it shows the parents for each commit, and what is the commit history 
+	of each commit
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	all commits from both branches are in the resulting commit.
+	this new commit is on one branch only, on the checked out branch.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
