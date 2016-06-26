@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  
+  mainly three reasons: 1) For backup. To store my program on a second machine, 
+  so I still have acceess to my program code even if my own computer crashes.
+  2) To share a program with other developers. 3) To have a central repository that
+  can act as a reference.
