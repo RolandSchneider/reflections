@@ -4,3 +4,13 @@ When would you want to use a remote repository rather than keeping all your work
   so I still have acceess to my program code even if my own computer crashes.
   2) To share a program with other developers. 3) To have a central repository that
   can act as a reference.
+
+
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+	i don't want to duplicate my local repository on remote. For instance,
+	it would get cluttered very soon if a lot of developers pushed everything on origin.
+	Also, its much clearer to commit only at well - defined points.
+
+	
