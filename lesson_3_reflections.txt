@@ -12,4 +12,10 @@ stay up-to-date with your remote repository?
 	Probably beause I want to synchronize only at certain times.
 	At start of work, for example.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	forks: for starting at someone elses repository.
+	clones: copying one repository to some other pplace
+	brances: development vs production, for example
+
+
 
