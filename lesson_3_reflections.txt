@@ -22,3 +22,8 @@ What is the benefit of having a copy of the last known state of the remote store
 	The other possibility would be to merge automatically. 
 	You probably want to check and modify before merging.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Collaborating with pull requests is much easier, of course. Everyone sees the features intended 
+	for merge and can comment on them.
+
