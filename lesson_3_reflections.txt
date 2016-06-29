@@ -17,5 +17,8 @@ Describe the differences between forks, clones, and branches. When would you use
 	clones: copying one repository to some other pplace
 	brances: development vs production, for example
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
+	The other possibility would be to merge automatically. 
+	You probably want to check and modify before merging.
 
