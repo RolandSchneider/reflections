@@ -27,3 +27,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	Collaborating with pull requests is much easier, of course. Everyone sees the features intended 
 	for merge and can comment on them.
 
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+	I might want a "master" brnach for production, and a dev and test branch for development and test, respectively
+	I also might want separate small feature branches to try out things.
+
+
